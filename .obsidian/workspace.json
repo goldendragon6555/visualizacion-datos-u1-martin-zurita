@@ -202,7 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 458.2999267578125
+    "width": 339.0999755859375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,7 +216,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fb41650c356e0c59",
+  "active": "2fa377b042560af7",
   "lastOpenFiles": [
     "libro de visualización de datos/capitulo 1/El diseño de la información.md",
     "Sin título.base",
