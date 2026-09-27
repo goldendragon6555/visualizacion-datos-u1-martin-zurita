@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "libro de visualización de datos/capitulo 1/Infografía vs Visualización.md",
+                "file": "libro de visualización de datos/capitulo 1/Infografía Estructura.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Infografía vs Visualización"
+              "title": "Infografía Estructura"
             }
           }
         ]
@@ -198,11 +198,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6dd5230f732b9417",
+  "active": "08972dee3ac18825",
   "lastOpenFiles": [
-    "libro de visualización de datos/capitulo 1/El diseño de la información.md",
-    "libro de visualización de datos/capitulo 1/Contexto.md",
+    "libro de visualización de datos/capitulo 1/Un poco de historia de la visualización de la información.md",
     "libro de visualización de datos/capitulo 1/Infografía vs Visualización.md",
+    "libro de visualización de datos/capitulo 1/Infografía Estructura.md",
+    "libro de visualización de datos/capitulo 1/El diseño de la información.md",
+    "libro de visualización de datos/capitulo 1/Beneficios de la visualización.md",
+    "libro de visualización de datos/capitulo 1/Contexto.md",
+    "Sin título.md",
     "libro de visualización de datos/capitulo 2.md",
     "Sin título.base",
     "Sin título 1.base",
@@ -215,7 +219,6 @@
     "capitulo 3",
     "capitulo 2",
     "libro de visualización de datos",
-    "Sin título.md",
     "Sin título 2.md",
     "Git.md",
     "Sin título 1.md",
