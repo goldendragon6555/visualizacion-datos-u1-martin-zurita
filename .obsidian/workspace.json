@@ -6,7 +6,6 @@
       {
         "id": "cc8d050706240061",
         "type": "tabs",
-        "dimension": 48.098256735340726,
         "children": [
           {
             "id": "08972dee3ac18825",
@@ -14,29 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "libro de visualización de datos/capitulo 1/El diseño de la información.md",
+                "file": "libro de visualización de datos/capitulo 1/Infografía vs Visualización.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "El diseño de la información"
-            }
-          }
-        ]
-      },
-      {
-        "id": "20c41e1cd12f59fa",
-        "type": "tabs",
-        "dimension": 51.901743264659274,
-        "children": [
-          {
-            "id": "fb41650c356e0c59",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "title": "Infografía vs Visualización"
             }
           }
         ]
@@ -117,14 +99,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sin título 3.md",
+                "file": "libro de visualización de datos/capitulo 1/Infografía vs Visualización.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
               "title": "Enlaces entrantes"
@@ -136,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sin título 3.md",
+                "file": "libro de visualización de datos/capitulo 1/Infografía vs Visualización.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -219,10 +201,10 @@
   "active": "2fa377b042560af7",
   "lastOpenFiles": [
     "libro de visualización de datos/capitulo 1/El diseño de la información.md",
-    "Sin título.base",
-    "libro de visualización de datos/capitulo 1/Infografía vs Visualización.md",
     "libro de visualización de datos/capitulo 1/Contexto.md",
+    "libro de visualización de datos/capitulo 1/Infografía vs Visualización.md",
     "libro de visualización de datos/capitulo 2.md",
+    "Sin título.base",
     "Sin título 1.base",
     "libro de visualización de datos/capitulo 1",
     "libro de visualización de datos/capitulo 4.md",
