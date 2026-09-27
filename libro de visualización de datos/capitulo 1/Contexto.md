@@ -1,0 +1,3 @@
+
+El cerebro humano esta diseñado para retener información por lo visual, estos nos ayudan a retener y entender la información que es presentada. la información que activa varios campos en nuestro cerebro es mejor para no olvidar la información. 
+Pero si no está bien realizado nos dificulta la retención o mal interpretación de la información.

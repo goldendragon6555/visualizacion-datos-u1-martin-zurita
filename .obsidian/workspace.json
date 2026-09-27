@@ -4,62 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "a3307fe9758d7365",
+        "id": "cc8d050706240061",
         "type": "tabs",
-        "dimension": 54.99207606973059,
+        "dimension": 48.098256735340726,
         "children": [
           {
-            "id": "a3174139e55a76b5",
+            "id": "08972dee3ac18825",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sin título.md",
+                "file": "libro de visualización de datos/capitulo 1/Infografía vs Visualización.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sin título"
-            }
-          },
-          {
-            "id": "f6670b50325a9ff2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sin título 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sin título 1"
-            }
-          },
-          {
-            "id": "752f2169f073666f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sin título 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sin título 2"
+              "title": "Infografía vs Visualización"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
-        "id": "d1405e5f3f5406d9",
+        "id": "20c41e1cd12f59fa",
         "type": "tabs",
-        "dimension": 45.00792393026941,
+        "dimension": 51.901743264659274,
         "children": [
           {
-            "id": "f690cb8c621a3847",
+            "id": "fb41650c356e0c59",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -102,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#contexto",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -232,7 +203,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 458.2999267578125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -246,18 +217,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f690cb8c621a3847",
+  "active": "08972dee3ac18825",
   "lastOpenFiles": [
-    "Sin título 2.md",
+    "libro de visualización de datos/capitulo 1/El diseño de la información.md",
+    "libro de visualización de datos/capitulo 1/Contexto.md",
+    "libro de visualización de datos/capitulo 1/Infografía vs Visualización.md",
+    "libro de visualización de datos/capitulo 2.md",
     "Sin título.base",
-    "Sin título.md",
+    "Sin título 1.base",
+    "libro de visualización de datos/capitulo 1",
+    "libro de visualización de datos/capitulo 4.md",
+    "libro de visualización de datos/capitulo 3.md",
+    "Capitulo 1/capitulo 1 1.md",
     "Sin título 3.md",
+    "capitulo 4",
+    "capitulo 3",
+    "capitulo 2",
+    "libro de visualización de datos",
+    "Sin título.md",
+    "Sin título 2.md",
     "Git.md",
     "Sin título 1.md",
     "Bienvenido.md",
     "Visualizacion-datos-u1-martin-zurita/Sin título.md",
     "cree un enlace.md",
-    "Sin título 1.base",
     "Visualizacion-datos-u1-martin-zurita"
   ]
 }
