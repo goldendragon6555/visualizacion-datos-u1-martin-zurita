@@ -179,7 +179,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sin título 3.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -217,11 +216,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "08972dee3ac18825",
+  "active": "fb41650c356e0c59",
   "lastOpenFiles": [
+    "libro de visualización de datos/capitulo 1/El diseño de la información.md",
     "Sin título.base",
     "libro de visualización de datos/capitulo 1/Infografía vs Visualización.md",
-    "libro de visualización de datos/capitulo 1/El diseño de la información.md",
     "libro de visualización de datos/capitulo 1/Contexto.md",
     "libro de visualización de datos/capitulo 2.md",
     "Sin título 1.base",
