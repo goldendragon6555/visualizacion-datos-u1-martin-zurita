@@ -1,3 +1,4 @@
+[[Contexto del capitulo 1]]
 La infografía sigue una estructura que contara con tres secciones definida:
 - *La introducción* : es la parte que debe interesar al lector y demostrar que tenemos contenido interesante
 - *El cuerpo*: en esta parte mas importante de la infografía, que tiene que tener información desconocida para el lector y tiene el aspecto mas visual, tiene que tener una mención a la conclusión  y tiene una moraleja 

@@ -6,6 +6,7 @@
       {
         "id": "cc8d050706240061",
         "type": "tabs",
+        "dimension": 59.48275862068966,
         "children": [
           {
             "id": "08972dee3ac18825",
@@ -13,12 +14,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "libro de visualización de datos/capitulo 1/Infografía Estructura.md",
+                "file": "libro de visualización de datos/capitulo 3/Herramientas que se pueden utilizar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Infografía Estructura"
+              "title": "Herramientas que se pueden utilizar"
+            }
+          }
+        ]
+      },
+      {
+        "id": "87031278680142c3",
+        "type": "tabs",
+        "dimension": 40.51724137931034,
+        "children": [
+          {
+            "id": "7d070c0072fb6577",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ]
@@ -184,7 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.0999755859375
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,20 +216,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6dd5230f732b9417",
+  "active": "08972dee3ac18825",
   "lastOpenFiles": [
+    "libro de visualización de datos/capitulo 3/Herramientas de análisis y exploración.md",
+    "libro de visualización de datos/capitulo 3/Herramientas que se pueden utilizar.md",
+    "libro de visualización de datos/capitulo 3/Herramientas de depuración y filtrado.md",
+    "libro de visualización de datos/capitulo 3/Herramientas para gráficos de datos.md",
+    "libro de visualización de datos/capitulo 2/El proceso de trabajar con datos.md",
+    "libro de visualización de datos/capitulo 2/Fuente de datos.md",
+    "libro de visualización de datos/capitulo 2/Tipos de datos.md",
+    "libro de visualización de datos/capitulo 2/El origen de los datos.md",
+    "libro de visualización de datos/capitulo 2/Contexto del capitulo 2.md",
+    "libro de visualización de datos/Contexto general.md",
+    "libro de visualización de datos/capitulo 1/Contexto del capitulo 1.md",
+    "libro de visualización de datos/capitulo 1/Un poco de historia de la visualización de la información.md",
+    "libro de visualización de datos/capitulo 1/Infografía vs Visualización.md",
+    "libro de visualización de datos/capitulo 1/Infografía Estructura.md",
+    "libro de visualización de datos/capitulo 1/El diseño de la información.md",
+    "libro de visualización de datos/capitulo 1/Beneficios de la visualización.md",
     "libro de visualización de datos/capitulo 4",
     "libro de visualización de datos/capitulo 3",
     "libro de visualización de datos/capitulo 2",
     "libro de visualización de datos/capitulo 4.md",
     "libro de visualización de datos/capitulo 3.md",
     "libro de visualización de datos/capitulo 2.md",
-    "libro de visualización de datos/capitulo 1/Infografía Estructura.md",
-    "libro de visualización de datos/capitulo 1/Un poco de historia de la visualización de la información.md",
-    "libro de visualización de datos/capitulo 1/Infografía vs Visualización.md",
-    "libro de visualización de datos/capitulo 1/El diseño de la información.md",
-    "libro de visualización de datos/capitulo 1/Beneficios de la visualización.md",
-    "libro de visualización de datos/capitulo 1/Contexto.md",
     "Sin título.md",
     "Sin título.base",
     "Sin título 1.base",
@@ -225,9 +253,6 @@
     "Sin título 2.md",
     "Git.md",
     "Sin título 1.md",
-    "Bienvenido.md",
-    "Visualizacion-datos-u1-martin-zurita/Sin título.md",
-    "cree un enlace.md",
-    "Visualizacion-datos-u1-martin-zurita"
+    "Bienvenido.md"
   ]
 }

@@ -1,4 +1,4 @@
-[[Contexto]]
+[[Contexto del capitulo 1]]
  La información es un conjunto de datos que es esencial para la comunicación, y que su estructura es: 
 - Significativa: ¿Qué quiere decir?.
 - Importancia: ¿Trata de algo importante?.

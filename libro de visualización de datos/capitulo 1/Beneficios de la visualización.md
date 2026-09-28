@@ -1,3 +1,4 @@
+[[Contexto del capitulo 1]]
 - Evita el exceso de información 
 	la información es concisa y que no necesita demasiada información para entenderlo 
 - Facilidad la comprensión 
